@@ -1,0 +1,2 @@
+markdown==3.2.2
+flask-restful==0.82
